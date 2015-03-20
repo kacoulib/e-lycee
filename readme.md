@@ -35,4 +35,3 @@ Pas fait :
 
     a) Espace eleves
     b) La page des pages
-    c) creation des fiches
