@@ -25,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DashboardController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DashboardController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/DashboardController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5553663" vertical-offset="694" max-vertical-offset="2159">
-              <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="18" />
+            <state vertical-scroll-proportion="-14.5" vertical-offset="694" max-vertical-offset="2159">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84858567" vertical-offset="0" max-vertical-offset="731">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,9 +108,9 @@
         <option value="$PROJECT_DIR$/models/User.php" />
         <option value="$PROJECT_DIR$/models/Role.php" />
         <option value="$PROJECT_DIR$/views/admin/eleves.blade.php" />
-        <option value="$PROJECT_DIR$/../readme.md" />
         <option value="$PROJECT_DIR$/views/admin/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/controllers/DashboardController.php" />
+        <option value="$PROJECT_DIR$/../readme.md" />
       </list>
     </option>
   </component>
@@ -794,14 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028911564" vertical-offset="0" max-vertical-offset="588">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/admin/eleves.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28960818" vertical-offset="0" max-vertical-offset="646">
@@ -820,8 +822,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/DashboardController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5553663" vertical-offset="694" max-vertical-offset="2159">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="18" />
+        <state vertical-scroll-proportion="-14.5" vertical-offset="694" max-vertical-offset="2159">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84858567" vertical-offset="0" max-vertical-offset="731">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
