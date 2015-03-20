@@ -58,8 +58,10 @@ class DashboardController extends \BaseController
         $final_class = Role::final_class()->get();
         $postsAll = Post::all();
         $posts = Post::all()->take(3);
-        $questions = Question::all();
+        $questions = Question::all()->take(3);
         $comments = Comment::all();
+
+
 
         return View::make('admin/dashboard',compact('user','posts','postsAll','students','questions','comments','first_class','final_class'));
 
