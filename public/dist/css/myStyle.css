@@ -1,0 +1,54 @@
+body {
+	padding-top: 70px
+}
+
+.navigation .breadcrumb {
+	float:left;
+	margin: 7px 10px;
+}
+
+.header blockquote {
+	margin-top: 35px;
+}
+
+.collection, .fabric, .box {
+	height: 250px;
+	width: 250px;
+	margin: 0 auto;
+}
+
+.collection {
+	background: url(../../img/photos/477019_128827590578139_760058725_o.jpg) center;
+	background-size: cover;
+}
+
+.fabric {
+	background: url(../../img/photos/338363_227433850717512_901658656_o.jpg) center;
+	background-size: cover;
+}
+
+.box {
+	background: url(../../img/photos/265598_227432830717614_14590094_o.jpg) center;
+	background-size: cover;
+}
+
+.avatar {
+	background: url(../../img/julien.jpg) center;
+	background-size: cover;
+}
+
+.mini {
+	height: 100px;
+	width: 100px;
+}
+
+tr .label {
+	line-height: 1.7
+}
+
+#search{
+	display: none;
+}
+#icon-search{
+	float: right;
+}
